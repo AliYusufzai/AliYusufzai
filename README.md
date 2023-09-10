@@ -1,6 +1,6 @@
 👋 Hi, I’m Ali Raza Yusufzai.
 
-👀 I’m interested in Backend Development, React, and Nodejs.
+👀 I’m interested in Backend Development
 
 🌱 I'm an undergraduate student of Virtual University of Pakistan. Currently focusing on portfolio projects.
 
