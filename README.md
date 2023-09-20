@@ -2,7 +2,7 @@
 
 👀 I’m interested in Backend Development
 
-🌱 I'm an undergraduate student of Virtual University of Pakistan. Currently focusing on portfolio projects.
+🌱 I'm an undergraduate student of Virtual University of Pakistan. Working as a Backend Engineer
 
 📫 You can reach me at my email id: aliyusufzai03@gmail.com.
 
