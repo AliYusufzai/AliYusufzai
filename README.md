@@ -1,8 +1,8 @@
 👋 Hi, I’m Ali Raza Yusufzai.
 
-👀 I’m interested in Backend Development
+👀 I'm an experienced Backend Developer with Expertise in NodeJs ExpressJs NestJs Python Django
 
-🌱 I'm an undergraduate student of Virtual University of Pakistan. Working as a Backend Engineer
+🌱 I'm an undergraduate student of Virtual University of Pakistan.
 
 📫 You can reach me at my email id: aliyusufzai03@gmail.com.
 
