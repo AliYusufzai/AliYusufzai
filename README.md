@@ -1,12 +1,77 @@
-👋 Hi, I’m Ali Raza Yusufzai.
+<h1 align="center">
+  <a href="#" style="text-decoration: none;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋%2C+I'm+Ali;Backend+Developer+%7C+Node.js+%2B+NestJS+%2B+FastAPI;Building+Scalable+APIs+%26+SaaS+Products+🚀;Always+Architecting+Something+New+⚙️" alt="Typing SVG" />
+  </a>
+</h1>
 
-👀 I'm an experienced Backend Developer with Expertise in NodeJs ExpressJs NestJs Python Django
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+</p>
 
-🌱 I'm an undergraduate student of Virtual University of Pakistan.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=00BFFF&style=flat" alt="profile views" />
+</p>
 
-📫 You can reach me at my email id: aliyusufzai03@gmail.com.
+---
 
-<!---
-AliYusufzai/AliYusufzai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👨‍💻 About Me
+
+* 💻 Backend Developer specializing in **Node.js**, **NestJS**, and **Python/FastAPI**
+* 🏗️ Passionate about building **scalable APIs**, **SaaS platforms**, and **real-world backend systems**
+* 🔭 Currently working with **PostgreSQL + SQLAlchemy async**, **domain-driven architecture**, and **JWT auth flows**
+* 🌱 Expanding into **Python/FastAPI** and deepening expertise in **system design** and **cloud infrastructure**
+* ☁️ Hands-on with **AWS**, **MongoDB**, and **PostgreSQL** across production projects
+* 🛠️ Built backends for **edtech platforms**, **short-video apps**, **task management systems**, and **SaaS products**
+* 💬 Let's talk about **NestJS, FastAPI, REST API design, MongoDB aggregation, PostgreSQL, AWS**
+* 📫 Reach me at: **your-email@example.com**
+* ✨ Motto: *"Ship clean architecture, then iterate fast."*
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="40" />
+  </a>
+</p>
+
+---
+
+### 🧰 My Tech Stack
+
+**Backend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,python,ts,js" />
+</p>
+
+**Databases & Cloud**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws" />
+</p>
+
+**Frontend (Working Knowledge)**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+**Tools & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react" alt="GitHub Streak" />
+</p>
