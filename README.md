@@ -8,10 +8,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=00BFFF&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
