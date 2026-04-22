@@ -18,12 +18,12 @@
 
 * 💻 Backend Developer specializing in **Node.js**, **NestJS**, and **Python/FastAPI**
 * 🏗️ Passionate about building **scalable APIs**, **SaaS platforms**, and **real-world backend systems**
-* 🔭 Currently working with **PostgreSQL + SQLAlchemy async**, **domain-driven architecture**, and **JWT auth flows**
+* 🔭 Currently working with **MySQL + PostgreSQL + NoSQL**, **domain-driven architecture**, and **JWT auth flows**
 * 🌱 Expanding into **Python/FastAPI** and deepening expertise in **system design** and **cloud infrastructure**
-* ☁️ Hands-on with **AWS**, **MongoDB**, and **PostgreSQL** across production projects
-* 🛠️ Built backends for **edtech platforms**, **short-video apps**, **task management systems**, and **SaaS products**
-* 💬 Let's talk about **NestJS, FastAPI, REST API design, MongoDB aggregation, PostgreSQL, AWS**
-* 📫 Reach me at: **your-email@example.com**
+* ☁️ Hands-on with **AWS**, **MySQL**, and **PostgreSQL** across production projects
+* 🛠️ Built backends for **short-video apps**, **food delivery systems**, and **SaaS products**
+* 💬 Let's talk about **NestJS, NodeJS, FastAPI, REST API design, MySQL, PostgreSQL, AWS**
+* 📫 Reach me at: **aliyusufzai03@gmail.com**
 * ✨ Motto: *"Ship clean architecture, then iterate fast."*
 
 ---
