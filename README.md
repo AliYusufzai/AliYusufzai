@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="#" style="text-decoration: none;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋%2C+I'm+Ali;Backend+Developer+%7C+Node.js+%2B+NestJS+%2B+FastAPI;Building+Scalable+APIs+%26+SaaS+Products+🚀;Always+Architecting+Something+New+⚙️" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+👋%2C+I'm+Ali;Backend+Developer+%7C+ASP.NET+Core+%2B+Node.js+%2B+NestJS;Building+Scalable+APIs+%26+SaaS+Products+🚀;Always+Architecting+Something+New+⚙️" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -12,13 +12,15 @@
 
 ### 👨‍💻 About Me
 
-* 💻 Backend Developer specializing in **Node.js**, **NestJS**, and **Python/FastAPI**
+* 💻 Backend Developer working with **C# / ASP.NET Core**, **Node.js**, and **NestJS**
 * 🏗️ Passionate about building **scalable APIs**, **SaaS platforms**, and **real-world backend systems**
-* 🔭 Currently working with **MySQL + PostgreSQL + NoSQL**, **domain-driven architecture**, and **JWT auth flows**
-* 🌱 Expanding into **Python/FastAPI** and deepening expertise in **system design** and **cloud infrastructure**
+* 🔭 Currently building a **digital wallet API** with **.NET**, **SQL Server**, **Entity Framework Core**, and **Dapper**
+* 🌱 Deepening my expertise in **C# / .NET**, **system design**, and **cloud infrastructure**
+* 🔐 Working with **JWT authentication**, **email OTP confirmation**, **transaction handling**, and **audit logging**
+* 🧩 Experienced with **MySQL + PostgreSQL + NoSQL**, **domain-driven architecture**, and **REST API design**
 * ☁️ Hands-on with **AWS**, **MySQL**, and **PostgreSQL** across production projects
 * 🛠️ Built backends for **short-video apps**, **food delivery systems**, and **SaaS products**
-* 💬 Let's talk about **NestJS, NodeJS, FastAPI, REST API design, MySQL, PostgreSQL, AWS**
+* 💬 Let's talk about **C#, ASP.NET Core, NestJS, Node.js, REST APIs, SQL Server, MySQL, PostgreSQL, AWS**
 * 📫 Reach me at: **aliyusufzai03@gmail.com**
 * ✨ Motto: *"Ship clean architecture, then iterate fast."*
 
@@ -38,12 +40,16 @@
 
 **Backend**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,python,ts,js" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,nestjs,express,ts,js" alt="C#, .NET, Node.js, NestJS, Express, TypeScript, JavaScript" />
 </p>
 
 **Databases & Cloud**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,aws" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis,aws" alt="MySQL, MongoDB, PostgreSQL, Redis, AWS" />
+</p>
+
+<p align="center">
+  SQL Server · Entity Framework Core · Dapper · Stored Procedures
 </p>
 
 **Frontend (Working Knowledge)**
@@ -54,6 +60,10 @@
 **Tools & DevOps**
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux" />
+</p>
+
+<p align="center">
+  Serilog · Seq
 </p>
 
 ---
